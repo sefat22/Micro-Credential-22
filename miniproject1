@@ -1,0 +1,15 @@
+--CREATE TABLE Videos (
+--      Id INT PRIMARY KEY,
+--      Title VARCHAR(50) NOT NULL,
+--      Length INT NULL,
+--      Url VARCHAR(100) NOT NULL
+--);
+
+
+--INSERT INTO Videos ( Id, Title, Length, Url ) VALUES ( 1, 'Importing file', 10, 'https://www.youtube.com/watch?v=itdObSlvlFY');
+--INSERT INTO Videos ( Id, Title, Length, Url ) VALUES ( 2, 'Create table and Insert Data', 16, 'https://www.youtube.com/watch?v=LAP9-vu-KgU');
+--INSERT INTO Videos ( Id, Title, Length, Url ) VALUES ( 3, 'Github Repository', 15, 'https://www.youtube.com/watch?v=AW_U0q5BtFI');
+--INSERT INTO Videos ( Id, Title, Length, Url ) VALUES ( 4, 'Create Database', 7, 'https://www.youtube.com/watch?v=PPFyoXA_FC0');
+--INSERT INTO Videos ( Id, Title, Length, Url ) VALUES ( 5, 'Join Sql', 126, 'https://www.youtube.com/watch?v=9yeOJ0ZMUYw');\
+
+--select * from Videos

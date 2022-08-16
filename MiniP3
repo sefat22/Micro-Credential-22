@@ -1,0 +1,1 @@
+SELECT * FROM Videos v INNER JOIN Reviewers r ON v.Id = r.vidId;

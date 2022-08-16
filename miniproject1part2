@@ -1,0 +1,12 @@
+--CREATE TABLE Reviewers (
+--User VARCHAR(50) NOT NULL,
+--Rating INT NULL,
+--Review VARCHAR(10),
+--vidId INT REFERENCES Reviewers
+--);
+--
+--INSERT INTO Reviewers ( Id, Title, Length, Url ) VALUES ( 1, 'Importing file', 10, 'https://www.youtube.com/watch?v=itdObSlvlFY');
+--INSERT INTO Reviewers ( User, Rating, Review, vidId) VALUES ( 'Cyd', 5, 'Thank you!!', 3);
+--INSERT INTO Reviewers ( User, Rating, Review, vidId) VALUES ( 'Bob', 5, 'It was helpful.', 5);
+
+--select * from Reviwers;
